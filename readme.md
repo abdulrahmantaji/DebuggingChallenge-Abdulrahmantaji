@@ -1,0 +1,2 @@
+## Debugging Challenge
+In index.js file there are five fucntions each of them has at least one problem needs to be solved, some of the problem may break the whole code and some of them may not do what is expected from them to be done, your job is to check the function and fix their problems  
